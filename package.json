@@ -1,0 +1,27 @@
+{
+  "name": "puppeteer-book",
+  "description": "Puppeteer code snippets",
+  "version": "1.0.0",
+  "dependencies": {
+    "convert-filename-ja": "^1.0.0",
+    "csv-stringify": "^3.0.0",
+    "delay": "^3.0.0",
+    "dotenv": "^6.0.0",
+    "iconv-lite": "^0.4.23",
+    "puppeteer": "1.6.0",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "eslint": "^5.0.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "nyc": "^11.8.0"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js",
+    "test": "nyc ava -v"
+  }
+}
