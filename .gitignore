@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+/IndexViewer.pdb
+/IndexViewer.exe.config
+/IndexViewer/obj/Debug
+/IndexViewer
+/IndexViewer.sln
+/.vs/IndexViewer/v15
