@@ -65,3 +65,18 @@ typings/
 /IndexViewer
 /IndexViewer.sln
 /.vs/IndexViewer/v15
+/.vs/YoutubeDownloader/v15
+/YoutubeDownloader(WPF Fail)
+/YoutubeDownloader/bin/Debug/YoutubeDownloader.exe.config
+/YoutubeDownloader/bin/Debug/YoutubeDownloader.pdb
+/YoutubeDownloader/obj/Debug
+/YoutubeDownloader/Properties
+/YoutubeDownloader/.vs/YoutubeDownloader/v15
+/YoutubeDownloader/App.config
+/YoutubeDownloader/Form1.cs
+/YoutubeDownloader/Form1.Designer.cs
+/YoutubeDownloader/Form1.resx
+/YoutubeDownloader/Program.cs
+/YoutubeDownloader/YoutubeDownloader.csproj
+/YoutubeDownloader.sln
+/YoutubeDownloader/bin/Debug/youtube-dl.exe
